@@ -182,6 +182,13 @@ img {
   background-color: var(--pressed-state-color);
 }
 
+.hero-title-straighten {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 .we-offer-container {
   padding: 120px 0;
 }
